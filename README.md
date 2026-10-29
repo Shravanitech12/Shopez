@@ -4,6 +4,39 @@ SHOPEZ is a complete, production-grade, responsive e-commerce web platform built
 
 ---
 
+## 🎥 Project Demo Video
+
+Watch the complete feature walkthrough, customer shopping workflow, and administrative dashboard live in action:
+
+🎬 **[Watch SHOPEZ Demo Video on Google Drive](https://drive.google.com/drive/folders/1CmNXkss9PsQVs_FUBce3sEH6uBG75u39?usp=drive_link)**
+
+---
+
+## 📚 Complete Project Documentation
+
+All design artifacts, research templates, SRS, architecture diagrams, and formal project reports are included in the repository under [`/docs`](./docs) and [`/Documentation`](./Documentation):
+
+1. **Phase 1: Brainstorming & Ideation**
+   - Idea Generation & Prioritization Template
+   - Define Problem Statements Template
+   - Empathy Map Canvas
+2. **Phase 2: Requirement Analysis**
+   - Solution Requirements & Specifications
+   - Data Flow Diagram & User Stories
+   - Technology Stack (Architecture & Stack)
+3. **Phase 3: Project Design**
+   - Solution Architecture Document
+   - Problem - Solution Fit Template
+   - Proposed Solution Template
+4. **Phase 4: Project Planning**
+   - Project Planning Schedule & Milestone Template
+5. **Phase 5: Project Development & Testing**
+   - User Acceptance Testing (UAT) & Functional Specification Document (FSD)
+6. **Phase 6: Project Report**
+   - Comprehensive 21-Page Project Report (`Shopez_Project_Report_21_Pages.docx`)
+
+---
+
 ## 🌟 Key Features
 
 ### 🛍️ Customer Experience

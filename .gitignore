@@ -6,6 +6,7 @@ uploads/*
 !uploads/.gitkeep
 .DS_Store
 *.log
+*.mp4
 push.bat
 push.ps1
 start-dev.bat
