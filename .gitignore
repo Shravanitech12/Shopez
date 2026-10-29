@@ -8,3 +8,5 @@ uploads/*
 *.log
 push.bat
 push.ps1
+start-dev.bat
+start-dev.ps1
